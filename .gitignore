@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.idea/
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyCharm
+*.iml
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Database
+*.sqlite3
+*.db
+
+# Test coverage
+.coverage
+*.cover
+*.py,cover
+
+# Distribution / packaging
+*.egg
+*.egg-info
+dist/
+build/
+*.whl
+*.tar.gz
+
+# PyInstaller
+*.manifest
+*.spec
+
+# mypy
+.mypy_cache/
+
+# virtual environment
+venv/
+env/
